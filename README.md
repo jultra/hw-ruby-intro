@@ -116,5 +116,5 @@ then watch the test pass!
 
 # Submission Directions
 
-Upload a single `ruby_intro.rb` file to the autograder. 
+Upload a single `ruby_intro.rb` file to the Activity 2 Submission Bin for this activity in the VLE site.
 
